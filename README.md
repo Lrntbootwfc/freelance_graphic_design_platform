@@ -28,3 +28,9 @@ To create a transparent, trustless platform where:
 4. **Project Categories**: Allow categorization of projects by design type (logo, web, etc.)
 5. **Milestone Payments**: Support for breaking projects into phases with partial payments
 6. **NFT Delivery**: Option to deliver final designs as NFTs with proper licensing
+
+
+## Screenshot 
+![image](https://github.com/user-attachments/assets/f986c776-9187-4c34-9a77-b155e38600cf)
+
+
